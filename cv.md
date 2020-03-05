@@ -25,35 +25,35 @@ React (Redux, Saga), React Native\
 Scala (Lyft, Play)\
 Java (Spring, JDBC, Oracle)\
 iOS (Swift)\
-Node.js (Express, Jade(Pug))\
+Node.js (Express, Jade(Pug), EFL, MongoDB)\
 Docker\
-MongoDB
 
 ## Work experience
 ### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
-- Developed ajax-based web calendar prototype. (_Used it for inspiration and created calendar application reflectcal.com_).
+- Developed ajax-based web calendar prototype. (_Was used as inspiration for calendar application reflectcal.com_).
 
 ### EPAM • Lead Software Engineer • (> 8 years, 2011 - to present)
-#### Development for client used dashboard based on netvibes.com
-- Developed several widgets and components for dashboard based on UWA
-- Code-reviewed another developers
-#### Telecom client
+#### Client who used dashboard based on netvibes.com (2011 - early 2012)
+- Developed several widgets and components for dashboard based on UWA.
+- Code-reviewed another developers.
+#### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application.
-- Developed frontend for analytics dashboard, user interface of which can be created purely with configuration
-- Developed features for CAT - legacy IE 5.5-only web application
-- Developed features for Java daemon for sending SMS messages
-- Developed
-#### Media industry client
-- Developed several services as POC in scope of large web-application for TV.
-- Developed scheduler system for desktop application for TV.
-- Developed part of major new style menu for desktop application for TV.
-- Developed complex.
+- Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB.
+- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts.
+- Implemented features for Java daemon for sending SMS messages.
+- Implemented features for RTCC - large integrator Java-based app that connects different services.
+- Created frontend for chart application for visualizing data from MongoDB in realtime.
+#### Media industry client (2016 - 2018)
+- Developed several services as POC in scope of large web-application for TV (further - application).
+- Developed scheduler system for application notifications.
+- Developed part of major update for application main menu.
+- Developed complex view for part of application settings.
 - Maintainer of notifications part of the application.
-#### Large entertainment industry client
-- Dev lead for analytics mobile application for iOS and Android.
+#### Large entertainment industry client (2018 - present)
+- Dev lead for analytics mobile application (further - app) for iOS and Android.
 - Supported and created parts of CI and CD infra.
-- Created native watchOS application for main mobile app.
-- Implemented parts of UI for mobile app
+- Created native watchOS application for main app.
+- Implemented parts of UI for mobile app.
 
 ### Side projects and open source
 - Authored [Reflect Calendar](https://reflectcal.com) - fast and minimalist web calendar, [source](https://github.com/reflectcal/).
