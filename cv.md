@@ -51,7 +51,7 @@ Docker
 - Maintainer of notifications part of the application (Node.js, EFL).
 #### Large entertainment industry client (2018 - present)
 - Dev lead for analytics mobile application (further - app) for iOS and Android.
-- Supported and created parts of CI and CD infra (Gitlab, Fastlane).
+- Supported and created parts of CI and CD infra (Gitlab, [Fastlane](https://github.com/fastlane/fastlane), [Appcenter](https://appcenter.ms/)).
 - Created native watchOS application for main app (Swift, WatchKit).
 - Implemented parts of UI for mobile app (React Native).
 
