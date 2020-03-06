@@ -22,7 +22,7 @@ JavaScript, HTML, CSS, Java, Scala, Python, Swift.
 GWT, Google Closure (Google closure compiler, Google closure library)  
 jQuery  
 React (Redux, Saga), React Native  
-Scala (Lift, Play)  
+Scala ([Lift](https://liftweb.net/), Play)  
 Java (Spring, JDBC, Oracle)  
 iOS (Swift)  
 Node.js (Express, Jade(Pug), EFL, MongoDB)  
@@ -39,7 +39,7 @@ Docker
 #### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
 - Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB (Bootstrap, JavaScript, Scala).
-- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, HTML Components, Java).
+- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, [HTML Components](https://schepp.dev/posts/today-the-trident-era-ends/#html-components%3A-attached-behaviors%2C-element-behaviors-%26-default-behaviors), Java).
 - Implemented features for Java daemon for sending SMS messages (Java).
 - Implemented features for RTCC - large integrator Java-based app that connects different services (Java 8).
 - Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
