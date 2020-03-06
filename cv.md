@@ -1,6 +1,6 @@
 # Alexey Komov
-Mail: alexeykcontact at gmail dot com.\
-Website: [https://alexeykomov.me](https://alexeykomov.me).\
+Mail: alexeykcontact at gmail dot com.  
+Website: [https://alexeykomov.me](https://alexeykomov.me).  
 Github: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 ## Inspirations
@@ -19,14 +19,14 @@ Personal interests include, among other, traveling, books and music.
 ### languages and standards
 JavaScript, HTML, CSS, Java, Scala, Python, Swift.
 ### Frameworks, libraries and technologies
-GWT, Google Closure (Google closure compiler, Google closure library)\
-jQuery\
-React (Redux, Saga), React Native\
-Scala (Lift, Play)\
-Java (Spring, JDBC, Oracle)\
-iOS (Swift)\
-Node.js (Express, Jade(Pug), EFL, MongoDB)\
-Docker\
+GWT, Google Closure (Google closure compiler, Google closure library)  
+jQuery  
+React (Redux, Saga), React Native  
+Scala (Lift, Play)  
+Java (Spring, JDBC, Oracle)  
+iOS (Swift)  
+Node.js (Express, Jade(Pug), EFL, MongoDB)  
+Docker  
 
 ## Work experience
 ### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
@@ -39,7 +39,7 @@ Docker\
 #### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
 - Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB (Bootstrap, JavaScript, Scala).
-- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, CSS Expressions, Java).
+- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, HTML Components, Java).
 - Implemented features for Java daemon for sending SMS messages (Java).
 - Implemented features for RTCC - large integrator Java-based app that connects different services (Java 8).
 - Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
