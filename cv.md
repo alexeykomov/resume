@@ -22,7 +22,7 @@ JavaScript, HTML, CSS, Java, Scala, Python, Swift.
 GWT, Google Closure (Google closure compiler, Google closure library)\
 jQuery\
 React (Redux, Saga), React Native\
-Scala (Lyft, Play)\
+Scala (Lift, Play)\
 Java (Spring, JDBC, Oracle)\
 iOS (Swift)\
 Node.js (Express, Jade(Pug), EFL, MongoDB)\
@@ -30,30 +30,30 @@ Docker\
 
 ## Work experience
 ### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
-- Developed ajax-based web calendar prototype. (_Was used as inspiration for calendar application reflectcal.com_).
+- Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for calendar application reflectcal.com_).
 
 ### EPAM • Lead Software Engineer • (> 8 years, 2011 - to present)
 #### Client who used dashboard based on netvibes.com (2011 - early 2012)
-- Developed several widgets and components for dashboard based on UWA.
+- Developed several widgets and components for dashboard ([UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
 - Code-reviewed another developers.
 #### Telecom client (2012 - 2016)
-- Did frontend development for NBAA - dashboard and suggester web-application.
-- Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB.
-- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts.
-- Implemented features for Java daemon for sending SMS messages.
-- Implemented features for RTCC - large integrator Java-based app that connects different services.
-- Created frontend for chart application for visualizing data from MongoDB in realtime.
+- Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
+- Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB (Bootstrap, JavaScript, Scala).
+- Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, CSS Expressions, Java).
+- Implemented features for Java daemon for sending SMS messages (Java).
+- Implemented features for RTCC - large integrator Java-based app that connects different services (Java 8).
+- Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
 #### Media industry client (2016 - 2018)
-- Developed several services as POC in scope of large web-application for TV (further - application).
-- Developed scheduler system for application notifications.
-- Developed part of major update for application main menu.
-- Developed complex view for part of application settings.
-- Maintainer of notifications part of the application.
+- Developed several services as POC in scope of large web-application for TV (further - application) (React, Redux, Reselect).
+- Developed scheduler system for application notifications (Node.js).
+- Developed part of major update for application main menu (Node.js, [EFL](https://www.enlightenment.org/about-efl.md)).
+- Developed complex view for part of application settings (Node.js, EFL).
+- Maintainer of notifications part of the application (Node.js, EFL).
 #### Large entertainment industry client (2018 - present)
 - Dev lead for analytics mobile application (further - app) for iOS and Android.
-- Supported and created parts of CI and CD infra.
-- Created native watchOS application for main app.
-- Implemented parts of UI for mobile app.
+- Supported and created parts of CI and CD infra (Gitlab, Fastlane).
+- Created native watchOS application for main app (Swift, WatchKit).
+- Implemented parts of UI for mobile app (React Native).
 
 ### Side projects and open source
 - Authored [Reflect Calendar](https://reflectcal.com) - fast and minimalist web calendar, [source](https://github.com/reflectcal/).
