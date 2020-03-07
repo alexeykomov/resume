@@ -4,7 +4,6 @@ Website: [https://alexeykomov.me](https://alexeykomov.me).
 Github: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 ## Inspirations
-My passions include:
 - Web.
 - Large web-applications, yet with simple UI.
 - Performance.
@@ -19,11 +18,11 @@ Personal interests include, among other, traveling, books and music.
 ### languages and standards
 JavaScript, HTML, CSS, Java, Scala, Python, Swift.
 ### Frameworks, libraries and technologies
-GWT, Google Closure (Google closure compiler, Google closure library)  
+[GWT](http://www.gwtproject.org/), Google Closure ([Google Closure Compiler](https://developers.google.com/closure/compiler), [Google Closure Library](https://github.com/google/closure-library))  
 jQuery  
 React (Redux, Saga), React Native  
-Scala ([Lift](https://liftweb.net/), Play)  
-Java (Spring, JDBC, Oracle)  
+Scala ([Lift](https://liftweb.net/))  
+Java (JDBC, Oracle)  
 iOS (Swift)  
 Node.js (Express, Jade(Pug), EFL, MongoDB)  
 Docker  
@@ -34,14 +33,14 @@ Docker
 
 ### EPAM • Lead Software Engineer • (> 8 years, 2011 - to present)
 #### Client who used dashboard based on netvibes.com (2011 - early 2012)
-- Developed several widgets and components for dashboard ([UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
+- Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
 - Code-reviewed another developers.
 #### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
 - Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB (Bootstrap, JavaScript, Scala).
 - Developed features for and maintained CAT - legacy IE 5.5-only web application, both frontend and backend parts (jQuery, [HTML Components](https://schepp.dev/posts/today-the-trident-era-ends/#html-components%3A-attached-behaviors%2C-element-behaviors-%26-default-behaviors), Java).
-- Implemented features for Java daemon for sending SMS messages (Java).
-- Implemented features for RTCC - large integrator Java-based app that connects different services (Java 8).
+- Implemented features for daemon for sending SMS messages (Java).
+- Implemented features for RTCC - large integrator app that connects different services (Java 8).
 - Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
 #### Media industry client (2016 - 2018)
 - Developed several services as POC in scope of large web-application for TV (further - application) (React, Redux, Reselect).
