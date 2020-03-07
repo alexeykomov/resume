@@ -1,1 +1,3 @@
-[https://alexeykomov.github.io/rsschool-cv/cv](https://alexeykomov.github.io/rsschool-cv/cv)
+This is my cv
+
+[https://alexeykomov.github.io/cv/cv](https://alexeykomov.github.io/cv/cv)
