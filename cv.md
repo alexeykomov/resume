@@ -12,7 +12,7 @@ Github: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 - (_Recently_) distributed systems and data structures.
 - (_Recently_) similarity and common principles of UIs in general, such as web and mobile.
 
-Personal interests include, among other, traveling, books and music.
+Personal interests include, among other, popular science, traveling, books and music.
 
 ## Skills
 ### languages and standards
