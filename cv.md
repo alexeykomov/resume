@@ -35,6 +35,7 @@ Docker
 #### Client who used dashboard based on netvibes.com (2011 - early 2012)
 - Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
 - Code-reviewed another developers.
+
 #### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
 - Developed frontend for analytics dashboard, user interface of which can be created purely with configuration from DB (Bootstrap, JavaScript, Scala).
@@ -42,12 +43,14 @@ Docker
 - Implemented features for daemon for sending SMS messages (Java).
 - Implemented features for RTCC - large integrator app that connects different services (Java 8).
 - Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
+
 #### Media industry client (2016 - 2018)
 - Developed several services as POC in scope of large web-application for TV (further - application) (React, Redux, Reselect).
 - Developed scheduler system for application notifications (Node.js).
 - Developed part of major update for application main menu (Node.js, [EFL](https://www.enlightenment.org/about-efl.md)).
 - Developed complex view for part of application settings (Node.js, EFL).
 - Maintainer of notifications part of the application (Node.js, EFL).
+
 #### Large entertainment industry client (2018 - present)
 - Dev lead for analytics mobile application (further - app) for iOS and Android.
 - Supported and created parts of CI and CD infra (Gitlab, [Fastlane](https://github.com/fastlane/fastlane), [Appcenter](https://appcenter.ms/)).
