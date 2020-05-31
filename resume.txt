@@ -50,7 +50,7 @@ Side projects and open source
 - Authored Reflect Calendar - fast and minimalist web calendar, source.
 - iOS-like momentum scroller with the web technologies https://github.com/alexeykomov/momentum-scroller, demo.
 - Pythagoras tree with React and Google Closure Compiler. https://github.com/alexeykomov/pythagoras-tree/, demo.
-- Сhart application for Telegram Chart Contest https://github.com/alexeykomov/chart-contest, demo.
+- Chart application for Telegram Chart Contest https://github.com/alexeykomov/chart-contest, demo.
 
 Education
 - BSUIR, FITC, master’s degree.
