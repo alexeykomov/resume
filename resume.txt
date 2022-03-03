@@ -6,8 +6,9 @@ Github: https://github.com/alexeykomov.
 
 Skills
 Languages and standards
-- JavaScript, HTML, CSS, Objective-C, Swift, Java, Scala, Python.
-Frameworks, libraries and technologies 
+- JavaScript, HTML, CSS, Objective-C, TypeScript
+- Swift, Java, Scala, Python.
+Frameworks, libraries and technologies
 - GWT, Google Closure (Google Closure Compiler, Google Closure Library)
 - React (Redux, Saga), React Native
 - iOS (Objective-C, Swift)
@@ -21,7 +22,7 @@ Work experience
 Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
 - Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (Was used as inspiration for calendar application reflectcal.com).
 
-EPAM • Lead Software Engineer • (> 9 years, 2011 - to present)
+EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 * Client who used dashboard based on netvibes.com (2011 - early 2012)
 - Developed several widgets and components for dashboard (JavaScript, HTML, CSS, UWA).
 - Code-reviewed another developers.
@@ -54,14 +55,15 @@ EPAM • Lead Software Engineer • (> 9 years, 2011 - to present)
 - Implemented parts of UI for mobile app (React Native).
 
 * Large car retailer (early 2020 - present)
-- Implemented most of client side functionality for document upload functioonality
-- Supported some of AWS-based services for identity verification and document upload
+- Implemented client side functionality for document upload functionality (TypeScript, React, Redux, Material-UI).
+- Supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 
 Side projects and open source
 - Authored Reflect Calendar - fast and minimalist web calendar. https://reflectcal.com, https://github.com/reflectcal/.
 - iOS-like momentum scroller with the web technologies. https://github.com/alexeykomov/momentum-scroller.
 - Pythagoras tree with React and Google Closure Compiler. https://github.com/alexeykomov/pythagoras-tree/.
 - Chart application for Telegram Chart Contest. https://github.com/alexeykomov/chart-contest.
+- Travel app for iOS, native (Objective-C, UIKit, Core Data, Mapbox). https://github.com/radzima-green-travel/green-travel-combine
 
 Education
 - BSUIR, FITC, master’s degree.
