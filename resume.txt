@@ -10,7 +10,7 @@ Languages and standards
 - Swift, Java, Scala, Python.
 Frameworks, libraries and technologies
 - GWT, Google Closure (Google Closure Compiler, Google Closure Library)
-- React (Redux, Saga), React Native
+- React (Redux, Saga, Material-UI), React Native
 - iOS (Objective-C, Swift)
 - jQuery
 - Scala (Lift)
@@ -42,12 +42,6 @@ EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 - Developed complex view for part of application settings (Node.js, EFL).
 - Maintainer of notifications part of the application (Node.js, EFL).
 
-* Large entertainment industry client (2018 - present)
-- Dev lead for analytics mobile application (further - app) for iOS and Android.
-- Supported and created parts of CI and CD infra (Gitlab, Fastlane, Appcenter).
-- Created native watchOS application for main app (Swift, WatchKit).
-- Implemented parts of UI for mobile app (React Native).
-
 * Large entertainment industry client (2018 - early 2020)
 - Dev lead for analytics mobile application (further - app) for iOS and Android.
 - Supported and created parts of CI and CD infra (Gitlab, Fastlane, Appcenter).
@@ -55,7 +49,7 @@ EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 - Implemented parts of UI for mobile app (React Native).
 
 * Large car retailer (early 2020 - present)
-- Implemented client side functionality for document upload functionality (TypeScript, React, Redux, Material-UI).
+- Implemented client side functionality for document upload (TypeScript, React, Redux, Material-UI).
 - Supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 
 Side projects and open source
@@ -70,7 +64,7 @@ Education
 - Coursera course - Algorithmic toolbox.
 - Coursera course - Data structures.
 - React Native mentoring program in EPAM.
-- Rolling scopes iOS courses.
+- Rolling scopes iOS course.
 
 Spoken languages
 - Russian - Native

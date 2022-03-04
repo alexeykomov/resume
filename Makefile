@@ -1,7 +1,7 @@
 text:
-	pandoc -f markdown -t plain --wrap=none cv.md -o resume.txt
+	pandoc -f markdown -t plain --wrap=none resume.md -o resume.txt
 
 pdf:
-	mdpdf cv.md
+	mdpdf resume.md
 
 

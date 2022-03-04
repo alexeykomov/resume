@@ -10,20 +10,21 @@ Github: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 - Simplicity.
 - Challenging problems on the edge of what is possible in Web platform.
 - (_Recently_) distributed systems and data structures.
-- (_Recently_) similarity and common principles of UIs in general, such as web and mobile.
+- (_Recently_) similarity and common principles of UIs in general, such as web and mobile - started iOS development.
 
 Personal interests include, among other, popular science, traveling, books and music.
 
 ## Skills
 ### languages and standards
-JavaScript, HTML, CSS, Java, Scala, Python, Swift.
+JavaScript, HTML, CSS, Objective-C, TypeScript  
+Swift, Java, Scala, Python.
 ### Frameworks, libraries and technologies
 [GWT](http://www.gwtproject.org/), Google Closure ([Google Closure Compiler](https://developers.google.com/closure/compiler), [Google Closure Library](https://github.com/google/closure-library))  
+React (Redux, Saga, Material-UI), React Native  
 jQuery  
-React (Redux, Saga), React Native  
+iOS (Objective-C, Swift)  
 Scala ([Lift](https://liftweb.net/))  
 Java (JDBC, Oracle)  
-iOS (Swift)  
 Node.js (Express, Jade(Pug), EFL, MongoDB)  
 Docker  
 
@@ -31,7 +32,7 @@ Docker
 ### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
 - Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for calendar application reflectcal.com_).
 
-### EPAM • Lead Software Engineer • (> 8 years, 2011 - to present)
+### EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 #### Client who used dashboard based on netvibes.com (2011 - early 2012)
 - Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
 - Code-reviewed another developers.
@@ -51,17 +52,22 @@ Docker
 - Developed complex view for part of application settings (Node.js, EFL).
 - Maintainer of notifications part of the application (Node.js, EFL).
 
-#### Large entertainment industry client (2018 - present)
+#### Large entertainment industry client (2018 - early 2020)
 - Dev lead for analytics mobile application (further - app) for iOS and Android.
 - Supported and created parts of CI and CD infra (Gitlab, [Fastlane](https://github.com/fastlane/fastlane), [Appcenter](https://appcenter.ms/)).
 - Created native watchOS application for main app (Swift, WatchKit).
 - Implemented parts of UI for mobile app (React Native).
+
+#### Large car retailer (early 2020 - present)
+- Implemented client side functionality for document upload (TypeScript, React, Redux, Material-UI).
+- Supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 
 ### Side projects and open source
 - Authored [Reflect Calendar](https://reflectcal.com) - fast and minimalist web calendar, [source](https://github.com/reflectcal/).
 - iOS-like momentum scroller with the web technologies [https://github.com/alexeykomov/momentum-scroller](https://github.com/alexeykomov/momentum-scroller), [demo](https://alexeykomov.me/momentum-scroller-demo/).
 - Pythagoras tree with React and Google Closure Compiler. [https://github.com/alexeykomov/pythagoras-tree/](https://github.com/alexeykomov/pythagoras-tree/), [demo](https://alexeykomov.me/pythagoras-tree/).
 - Сhart application for Telegram Chart Contest [https://github.com/alexeykomov/chart-contest](https://github.com/alexeykomov/chart-contest), [demo](https://alexeykomov.me/chart-contest/).
+- Travel app for iOS, native (Objective-C, UIKit, Core Data, Mapbox). [https://github.com/radzima-green-travel/green-travel-combine](https://github.com/radzima-green-travel/green-travel-combine)
 
 ## Education
 - School with class with emphasis to mathematics.
@@ -69,6 +75,7 @@ Docker
 - Coursera course - [Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox).
 - Coursera course - [Data structures](https://www.coursera.org/learn/data-structures).
 - React Native mentoring program in EPAM.
+- Rolling scopes iOS course.
 
 ## Spoken languages
 Russian - Native  
