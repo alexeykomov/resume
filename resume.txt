@@ -2,20 +2,21 @@ Alexey Komov
 
 Mail: alexeykcontact at gmail dot com.
 Website: https://alexeykomov.me.
-Github: https://github.com/alexeykomov.
+GitHub: https://github.com/alexeykomov.
 
 Skills
 Languages and standards
 - JavaScript, HTML, CSS, Objective-C, TypeScript
 - Swift, Java, Scala, Python.
 Frameworks, libraries and technologies
-- GWT, Google Closure (Google Closure Compiler, Google Closure Library)
-- React (Redux, Saga, Material-UI), React Native
-- iOS (Objective-C, Swift)
+- React (Redux, Saga, Material-UI, Redux Thunk)
+- React Native
+- Google Closure (Google Closure Compiler, Google Closure Library), GWT
 - jQuery
+- iOS (Objective-C, Swift)
 - Scala (Lift)
 - Java (JDBC, Oracle)
-- Node.js (Express, Jade(Pug), EFL, MongoDB)
+- Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)
 - Docker
 
 Work experience
@@ -49,12 +50,12 @@ EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 - Implemented parts of UI for mobile app (React Native).
 
 * Large car retailer (early 2020 - present)
-- Implemented client side functionality for document upload (TypeScript, React, Redux, Material-UI).
-- Supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
+- Implemented client side functionality for document upload (TypeScript, React, Redux, Redux Thunk, Material-UI).
+- Developed, supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 
 Side projects and open source
 - Authored Reflect Calendar - fast and minimalist web calendar. https://reflectcal.com, https://github.com/reflectcal/.
-- iOS-like momentum scroller with the web technologies. https://github.com/alexeykomov/momentum-scroller.
+- iOS-like momentum scroller built with the web technologies. https://github.com/alexeykomov/momentum-scroller.
 - Pythagoras tree with React and Google Closure Compiler. https://github.com/alexeykomov/pythagoras-tree/.
 - Chart application for Telegram Chart Contest. https://github.com/alexeykomov/chart-contest.
 - Travel app for iOS, native (Objective-C, UIKit, Core Data, Mapbox). https://github.com/radzima-green-travel/green-travel-combine
@@ -67,6 +68,6 @@ Education
 - Rolling scopes iOS course.
 
 Spoken languages
+- English - B2+
 - Russian - Native
 - Belorussian - Native
-- English - B2+
