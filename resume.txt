@@ -5,7 +5,7 @@ Website: https://alexeykomov.me.
 GitHub: https://github.com/alexeykomov.
 
 Work experience
-EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
+EPAM • Lead Software Engineer • (> 10 years, 2011 - present)
 * Large car retailer (early 2020 - present)
 - Implemented client side functionality for document upload (TypeScript, React,
 Redux, Redux Thunk, Material-UI).
