@@ -4,27 +4,12 @@ Mail: alexeykcontact at gmail dot com.
 Website: https://alexeykomov.me.
 GitHub: https://github.com/alexeykomov.
 
-Skills
-Languages and standards
-- JavaScript, HTML, CSS, Objective-C, TypeScript
-- Swift, Java, Scala, Python.
-Frameworks, libraries and technologies
-- React (Redux, Saga, Material-UI, Redux Thunk)
-- React Native
-- Google Closure (Google Closure Compiler, Google Closure Library), GWT
-- jQuery
-- iOS (Objective-C, Swift)
-- Scala (Lift)
-- Java (JDBC, Oracle)
-- Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)
-- Docker
-
 Work experience
 Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
-- Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (Was used as inspiration for calendar application reflectcal.com).
+- Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (Was used as inspiration for calendar application side project later).
 
 EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
-* Client who used dashboard based on netvibes.com (2011 - early 2012)
+* Client who were using dashboard based on netvibes.com (2011 - early 2012)
 - Developed several widgets and components for dashboard (JavaScript, HTML, CSS, UWA).
 - Code-reviewed another developers.
 
@@ -44,7 +29,7 @@ EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
 - Maintainer of notifications part of the application (Node.js, EFL).
 
 * Large entertainment industry client (2018 - early 2020)
-- Dev lead for analytics mobile application (further - app) for iOS and Android.
+- Led development of analytics mobile application (further - app) for iOS and Android.
 - Supported and created parts of CI and CD infra (Gitlab, Fastlane, Appcenter).
 - Created native watchOS application for main app (Swift, WatchKit).
 - Implemented parts of UI for mobile app (React Native).
@@ -62,10 +47,27 @@ Side projects and open source
 
 Education
 - BSUIR, FITC, master’s degree.
+Courses
 - Coursera course - Algorithmic toolbox.
 - Coursera course - Data structures.
 - React Native mentoring program in EPAM.
 - Rolling scopes iOS course.
+
+Skills
+Languages and standards
+- Proficient: JavaScript, HTML, CSS, TypeScript, Objective-C
+- Have experience: Swift, Java, Scala, Python
+Frameworks, libraries and technologies
+- React (Redux, Saga, Material-UI, Redux Thunk)
+- React Native
+- Google Closure (Google Closure Compiler, Google Closure Library)
+- GWT
+- Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)
+- jQuery
+- iOS (Objective-C, Swift)
+- Scala (Lift)
+- Java (JDBC, Oracle)
+- Docker
 
 Spoken languages
 - English - B2+
