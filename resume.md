@@ -4,13 +4,23 @@ Website: [https://alexeykomov.me](https://alexeykomov.me).
 GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 ## Work experience
-### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
-- Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for [calendar application side project](https://github.com/reflectcal/) later_).
+### EPAM • Lead Software Engineer • (> 10 years, 2011 - present)
+#### Large car retailer (early 2020 - present)
+- Implemented client side functionality for document upload (TypeScript, React, Redux, Redux Thunk, Material-UI).
+- Developed, supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 
-### EPAM • Lead Software Engineer • (> 10 years, 2011 - to present)
-#### Client who were using dashboard based on netvibes.com (2011 - early 2012)
-- Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
-- Code-reviewed another developers.
+#### Large entertainment industry client (2018 - early 2020)
+- Led development of analytics mobile application (further - app) for iOS and Android.
+- Supported and created parts of CI and CD infra (Gitlab, [Fastlane](https://github.com/fastlane/fastlane), [Appcenter](https://appcenter.ms/)).
+- Created native watchOS application for main app (Swift, WatchKit).
+- Implemented parts of UI for mobile app (React Native).
+
+#### Media industry client (2016 - 2018)
+- Developed several services as POC in scope of large web-application for TV (further - application) (React, Redux, Reselect).
+- Developed scheduler system for application notifications (Node.js).
+- Developed part of major update for application main menu (Node.js, [EFL](https://www.enlightenment.org/about-efl.md)).
+- Developed complex view for part of application settings (Node.js, EFL).
+- Maintainer of notifications part of the application (Node.js, EFL).
 
 #### Telecom client (2012 - 2016)
 - Did frontend development for NBAA - dashboard and suggester web-application (Scala, Lift, jQuery).
@@ -20,22 +30,12 @@ GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 - Implemented features for RTCC - large integrator app that connects different services (Java 8).
 - Created frontend for chart application for visualizing data from MongoDB in realtime (Canvas, MongoDB).
 
-#### Media industry client (2016 - 2018)
-- Developed several services as POC in scope of large web-application for TV (further - application) (React, Redux, Reselect).
-- Developed scheduler system for application notifications (Node.js).
-- Developed part of major update for application main menu (Node.js, [EFL](https://www.enlightenment.org/about-efl.md)).
-- Developed complex view for part of application settings (Node.js, EFL).
-- Maintainer of notifications part of the application (Node.js, EFL).
+#### Client who were using dashboard based on netvibes.com (2011 - early 2012)
+- Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
+- Code-reviewed another developers.
 
-#### Large entertainment industry client (2018 - early 2020)
-- Led development of analytics mobile application (further - app) for iOS and Android.
-- Supported and created parts of CI and CD infra (Gitlab, [Fastlane](https://github.com/fastlane/fastlane), [Appcenter](https://appcenter.ms/)).
-- Created native watchOS application for main app (Swift, WatchKit).
-- Implemented parts of UI for mobile app (React Native).
-
-#### Large car retailer (early 2020 - present)
-- Implemented client side functionality for document upload (TypeScript, React, Redux, Redux Thunk, Material-UI).
-- Developed, supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
+### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
+- Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for [calendar application side project](https://github.com/reflectcal/) later_).
 
 ### Side projects and open source
 - Authored [Reflect Calendar](https://reflectcal.com) - fast and minimalist web calendar, [source](https://github.com/reflectcal/).
