@@ -49,7 +49,7 @@ GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 ### Courses
 - Coursera course - [Algorithmic toolbox](https://www.coursera.org/learn/algorithmic-toolbox).
 - Coursera course - [Data structures](https://www.coursera.org/learn/data-structures).
-- React Native mentoring program in EPAM.
+- React Native mentoring program in EPAM. [Application developed as a result](https://github.com/alexeykomov/rnmentoringprogram).
 - Rolling scopes [iOS course](https://rs.school/ios/).
 
 ## Skills
