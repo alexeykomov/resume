@@ -4,7 +4,7 @@ Website: [https://alexeykomov.me](https://alexeykomov.me).
 GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 ## Work experience
-### EPAM • Lead Software Engineer • (> 10 years, 2011 - present)
+### [EPAM](https://epam.com) • Lead Software Engineer • (> 10 years, 2011 - present)
 #### Large car retailer (early 2020 - present)
 - Implemented client side functionality for document upload (TypeScript, React, Redux, Redux Thunk, Material-UI).
 - Developed, supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
@@ -34,7 +34,7 @@ GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 - Developed several widgets and components for dashboard (JavaScript, HTML, CSS, [UWA](https://uwa.netvibes.com/docs/Uwa/html/index.html)).
 - Code-reviewed another developers.
 
-### Scand • Frontend Software Engineer • (~ 1 year, 2007-2008)
+### [Scand](https://scand.com/) • Frontend Software Engineer • (~ 1 year, 2007-2008)
 - Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for [calendar application side project](https://github.com/reflectcal/) later_).
 
 ### Side projects and open source
