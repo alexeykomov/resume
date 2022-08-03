@@ -41,7 +41,7 @@ GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 #### EPAM internal
 - Conducted 100+ technical interviews.
-- Developed [iOS app](https://github.com/radzima-green-travel/green-travel-combine) for EPAM social project (see open source).
+- Developed [iOS app](https://github.com/radzima-green-travel/green-travel-combine) for EPAM social project (see [open source](https://alexeykomov.me/resume/resume#side-projects-and-open-source)).
 
 ### [Scand](https://scand.com/) • Frontend Software Engineer • (2007-2008)
 - Developed ajax-based web calendar prototype (PHP, MySQL, JavaScript). (_Was used as inspiration for [calendar application side project](https://github.com/reflectcal/) later_).
@@ -75,7 +75,7 @@ Google Closure ([Google Closure Compiler](https://developers.google.com/closure/
 Swift  
 Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)  
 [GWT](http://www.gwtproject.org/)  
-jQuery
+jQuery  
 Scala ([Lift](https://liftweb.net/))  
 Java (JDBC, Oracle)  
 Docker
