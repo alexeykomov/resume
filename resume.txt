@@ -31,7 +31,9 @@ Android.
 - Mentored junior developers.
 
 Telecom client (2012 - 2016)
-- Started practice to implement frontend in JS when needed instead of using JSP templates. This resulted in better development speed and separation of concerns between developers.
+- Started practice to implement frontend in JS when needed instead of using JSP
+templates. This resulted in better development speed and separation of concerns
+between developers.
 - Did frontend development for NBAA - dashboard and suggester web-application
 (Scala, Lift, jQuery).
 - Developed frontend for analytics dashboard, user interface of which can be
@@ -85,17 +87,17 @@ Languages and standards
 - Have experience: Swift, Java, Scala, Python
 Frameworks, libraries and technologies
 - Proficient:
-		React (Redux, Saga, Material-UI, Redux Thunk)
-		React Native
-		iOS (Objective-C)
-		Google Closure (Google Closure Compiler, Google Closure Library)
+  React (Redux, Saga, Material-UI, Redux Thunk)
+  React Native
+  iOS (Objective-C)
+  Google Closure (Google Closure Compiler, Google Closure Library)
 - Have experience:
-		Swift
-		Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)
-		GWT
-		jQuery Scala (Lift)
-		Java (JDBC, Oracle)
-		Docker
+  Swift
+  Node.js (AWS Lambda, Express, Jade(Pug), EFL, MongoDB)
+  GWT
+  jQuery Scala (Lift)
+  Java (JDBC, Oracle)
+  Docker
 
 Spoken languages
 - English - B2+
@@ -109,6 +111,8 @@ Inspirations
 - Simplicity.
 - Challenging problems on the edge of what is possible in Web platform.
 - (Recently) distributed systems and data structures.
-- (Recently) similarity and common principles of UIs in general, such as web and mobile.
+- (Recently) similarity and common principles of UIs in general, such as web and
+mobile.
 - (Recently) Native mobile development for iOS.
-Personal interests include, among other, popular science, traveling, books and music.
+Personal interests include, among other, popular science, traveling, books and
+music.
