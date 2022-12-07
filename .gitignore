@@ -23,3 +23,4 @@ build
 client_secret_*.json
 # For additionally disabled files, look into css/.gitignore, js/.gitignore,
 # logs/.gitignore
+cover_letter.pdf
