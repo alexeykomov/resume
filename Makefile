@@ -3,5 +3,6 @@ text:
 
 pdf:
 	mdpdf resume.md
+	mdpdf cover_letter.md
 
 
