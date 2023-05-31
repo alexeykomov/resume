@@ -5,7 +5,15 @@ GitHub: [https://github.com/alexeykomov](https://github.com/alexeykomov).
 
 ## Work experience
 ### [EPAM](https://epam.com) • Lead Software Engineer • (2011 - present)
-#### Large car retailer (early 2020 - present)
+#### Large oil company (mid 2022 - present)
+- Led development of corporate mobile application for iOS and Android.
+- Improved code quality with unit tests, code review, automated pipelines (Microsoft Azure, React Native, TypeScript).
+- Implemented built-in feature of short videos that user can record and play (Banuba SDK, Objective-C, Kotlin).
+- Implemented in-app update feature with custom app store.
+- Integrated with front-end team responsible for built-in webview-based web app, established message contracts (React, TypeScript).
+- Implemented native parts of the application for iOS: integration of video editor, video player functionality (Objective-C, UIKit).
+
+#### Large car retailer (early 2020 - mid 2022)
 - Implemented client side functionality for document upload (TypeScript, React, Redux, Redux Thunk, Material-UI).
 - Developed, supported AWS-based services for identity verification and document upload (Lambda (Serverless), SQS, SNS, ECS, DynamoDB).
 - Was a code-owner for front-end repository.
